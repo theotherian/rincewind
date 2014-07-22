@@ -4,6 +4,7 @@
   <groupId>com.theotherian.rincewind</groupId>
   <artifactId>rincewind</artifactId>
   <version>trunk-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <build>
     <plugins>
